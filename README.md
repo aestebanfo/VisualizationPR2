@@ -24,7 +24,7 @@ This command will install Dash and its required dependencies. We assumed you hav
 After Dash is installed, navigate to the folder containing your app.py file using the terminal or command prompt. For example:
 
    ```bash
-   cd /path/to/your/app
+   cd /path/to/your/app```
 Once you're in the folder with app.py, run the app using the following command:
 
    ```bash
