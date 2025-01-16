@@ -23,12 +23,14 @@ This command will install Dash and its required dependencies. We assumed you hav
 ## Step 2: Run the app.py file
 After Dash is installed, navigate to the folder containing your app.py file using the terminal or command prompt. For example:
 
-   ```bash
-   cd /path/to/your/app```
+```bash
+   cd /path/to/your/app
+```
 Once you're in the folder with app.py, run the app using the following command:
 
-   ```bash
+```bash
    python dash_server.py
+```
 This will start the Dash application, and you'll see output in the terminal that looks like:
 
 Dash is running on http://127.0.0.1:8050/
