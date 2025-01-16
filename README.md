@@ -6,7 +6,10 @@ This guide will help you install Dash, run the `app.py` file, and open the visua
 
 - Python 3.6 or higher
 - `pip` (Python package manager)
-
+- pandas
+- plotly
+- numpy
+- matplotlib
 ## Step 1: Install Dash
 
 1. Open your terminal or command prompt.
@@ -19,15 +22,14 @@ This command will install Dash and its required dependencies.
 ## Step 2: Run the app.py file
 After Dash is installed, navigate to the folder containing your app.py file using the terminal or command prompt. For example:
 
-bash
+````bash
 cd /path/to/your/app
 Once you're in the folder with app.py, run the app using the following command:
 
-bash
+````bash
 python dash_server.py
 This will start the Dash application, and you'll see output in the terminal that looks like:
 
-bash
 Dash is running on http://127.0.0.1:8050/
 The application is now running locally on the IP address 127.0.0.1 (also known as localhost) and port 8050 by default.
 
