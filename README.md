@@ -17,7 +17,8 @@ This guide will help you install Dash, run the `app.py` file, and open the visua
 
    ```bash
    pip install dash
-This command will install Dash and its required dependencies.
+This command will install Dash and its required dependencies. We assumed you have all the other libraries mentioned in requirements.
+
 
 ## Step 2: Run the app.py file
 After Dash is installed, navigate to the folder containing your app.py file using the terminal or command prompt. For example:
